@@ -1,0 +1,59 @@
+#任何时候都可以做实验，去熟练服务，去背诵##
+
+1.脚本总结
+
+2.理论背诵
+
+3.crontab -e -root
+
+4.背端口
+物理层          网卡     比特流 
+数据链路层     交换机    数据帧    
+网络层         路由器    数据包   ICMP（ping） arp 
+传输层         防火墙    数据段   TCP UDP
+应用层      
+http      80
+ftp       25
+tftp      24
+
+smtp  
+pop3      110
+imap
+
+dns       53
+dhcp      67 68
+ssh       22
+
+
+mysql     3306
+memcache  11211
+
+php       9000
+java     8080 8005 8005
+
+svn（subversion）3690
+
+
+5.做之前要备份
+
+6.总结LAMP,写成笔记
+
+7.LNMP脚本理解背诵
+
+8.opertaion day04 晚上的习题 最后两个总结
+
+9.sshd服务总结，错误经验总结
+
+10.xmind 做思维导图
+
+11.iscsi设备实现自动挂载
+
+
+
+
+
+
+
+
+
+
